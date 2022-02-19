@@ -1,0 +1,23 @@
+Lingga,Mahasiswa,15,15,75,60000,400000,104
+Nabiela,Mahasiswa,10,10,45,30000,350000,950
+Salsa,Mahasiswa,12,10,40,30000,300000,579
+Hana,Mahasiswa,6,13,13,62000,150000,096
+Subhkan,Mahasiswa,15,20,95,35000,200000,137
+Hafidz,Mahasiswa,7,15,15,100000,50000,950
+Chandra,Mahasiswa,12,10,10,50000,450000,149
+Annisa,Mahasiswa,7,15,0,50000,0,080
+Farhan ,Mahasiswa,10,10,30,90000,350000,729
+Irrana,Mahasiswa,12,8,8,50000,300000,195
+Abdul,Mahasiswa,10,3,30,30000,150000,268
+Linda,Mahasiswa,8,0,6,0,400000,832
+Kamil,Mahasiswa,10,10,50,73000,200000,214
+Savira,Mahasiswa,9,50,0,100000,0,883
+Hayat,Mahasiswa,12,7,10,35000,300000,758
+Tegar,Mahasiswa,8,30,30,100000,315000,123
+Melisa,Mahasiswa,12,0,25,0,200000,188
+Dewa,Mahasiswa,12,10,100,70000,400000,099
+Putri,Mahasiswa,6,0,105,0,450000,047
+Farrah,Mahasiswa,7,50,0,100000,0,731
+Irham,Mahasiswa,8,0,30,0,300000,128
+Ramzy,Mahasiswa,15,25,85,90000,315000,215
+Kale,Mahasiswa,10,15,100,50000,425000,520
